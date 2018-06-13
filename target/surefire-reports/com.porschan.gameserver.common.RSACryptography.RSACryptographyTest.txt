@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.porschan.gameserver.common.RSACryptography.RSACryptographyTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.904 s - in com.porschan.gameserver.common.RSACryptography.RSACryptographyTest

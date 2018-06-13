@@ -1,5 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1411ea5b-78e1-45e2-b5c1-a41038f5d35b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/GameserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/GameserverApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/Swagger2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/Swagger2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/common/RespModel/RespCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/common/RespModel/RespCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/common/RespModel/RespEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/common/RespModel/RespEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/common/RespModel/RespState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/common/RespModel/RespState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/common/utils/TimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/common/utils/TimeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/dao/GSUserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/dao/GSUserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/dao/GSUserSqlProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/dao/GSUserSqlProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/model/GSUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/model/GSUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/web/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/web/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/web/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/proschan/gameserver/web/UtilsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/web/UtilsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/GameserverApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/GameserverApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSA/AES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSA/AES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSA/Base64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSA/Base64.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSA/Decipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSA/Decipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSA/RSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSA/RSA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSA/RSATest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSA/RSATest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSACryptography/RSACryptographyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSACryptography/RSACryptographyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSACryptography/RSACryptographyTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSACryptography/RSACryptographyTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RSACryptography/RSACryptographyTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RSACryptography/RSACryptographyTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/RespModelTests/RespCodeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/RespModelTests/RespCodeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/Cipher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/Cipher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM2Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM2Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM3Digest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM3Digest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM4Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM4Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/SM4_Context.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/SM4_Context.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/proschan/gameserver/common/SMCryptography/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/porschan/gameserver/common/SMCryptography/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DBDoc/gsdb1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/static/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gameserver-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/target/gameserver-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.proschan.gameserver.common.RSACryptography.RSACryptographyTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.proschan.gameserver.common.RespModelTests.RespCodeTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.proschan.gameserver.common.RSACryptography.RSACryptographyTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.proschan.gameserver.common.RespModelTests.RespCodeTests.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="GameserverApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/porschan/gameserver/GameserverApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>por</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Codeware\profile\gameServer\src\main\java\com\porschan\gameserver\dao</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/porschan/gameserver/GameserverApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gameserver" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gameserver" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
@@ -8,6 +125,53 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gameserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gameserver" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gameServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -18,12 +182,27 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="GameserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.proschan.gameserver.GameserverApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8 x64" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.porschan.gameserver.GameserverApplication" />
       <module name="gameserver" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.proschan.gameserver.*" />
@@ -77,5 +256,164 @@
         <item itemvalue="Application.GameserverApplication" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1411ea5b-78e1-45e2-b5c1-a41038f5d35b" name="Default" comment="" />
+      <created>1527053016441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527053016441</updated>
+      <workItem from="1527053019837" duration="542000" />
+      <workItem from="1528859629875" duration="446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="988000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.62050164" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42529988" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/porschan/gameserver/GameserverApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/porschan/gameserver/GameserverApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="68" selection-start-line="4" selection-start-column="68" selection-end-line="4" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8 x64</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>gameserver</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
